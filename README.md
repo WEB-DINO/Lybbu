@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <div style="width: 100%; max-width: 800px; margin: auto;">
     <title>Welcome to Lybbu</title>
     <style>
         body {
