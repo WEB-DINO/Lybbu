@@ -2,9 +2,9 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-   <div style="width: auto; max-width: auto; margin: auto;">
     <title>Welcome to Lybbu</title>
     <style>
+        <div style="width: auto; max-width: auto; margin: auto;">
         body {
             font-family: Arial, sans-serif;
             text-align: center;
