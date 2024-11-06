@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-   <div style="width: 100%; max-width: 800px; margin: auto;">
+   <div style="width: auto; max-width: auto; margin: auto;">
     <title>Welcome to Lybbu</title>
     <style>
         body {
